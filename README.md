@@ -1,2 +1,2 @@
-# best-practice-angular6
-basic for angular 6 project
+#Best practice with Angular 6
+> ### Base project made with :heart: . Contains CRUD, patterns, generate library, etc.
